@@ -54,19 +54,19 @@ namespace DimensionalMall {
     
             shopLimits = new ReviewStats {
                 triangles = 100000,
-                materialSlots = 15,
+                materialSlots = 64,
                 bounds = new Vector3(30, 30, 30)
             };
             
             entranceLimits = new ReviewStats {
                 triangles = 10000,
-                materialSlots = 3,
+                materialSlots = 5,
                 bounds = new Vector3(4f, 2.4f, .6f)
             };
     
             vipEntranceLimits = new ReviewStats {
                 triangles = 10000,
-                materialSlots = 3,
+                materialSlots = 5,
                 bounds = new Vector3(10f, 2.4f, 1.2f)
             };
 
