@@ -12,7 +12,7 @@ Dimensional Exporter is an exporter as well as a template designed for the Dimen
 -  The Entrances will be used as frames for the Udon Portals, so keep that in mind
 -  Please put everything you will be using for the shop(shaders,scripts,textures,models,e.t.c.) into 1 folder, preferably under your author name.(It'll be a cleaner export that way)
 
-### [Download the Unity Package Here](https://github.com/lesaii/Dimensional-Exporter/releases/tag/v1.0.0)
+### [Download the Unity Package Here](https://github.com/lesaii/Dimensional-Exporter/releases)
 
 ### Credits
 
