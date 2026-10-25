@@ -439,10 +439,10 @@ namespace DimensionalMall {
         }
         
         static int CountMaterialSlots(Renderer[] renderers) {
-            var count = new HashSet<Material>();
+            int count = 0;
             foreach (var renderer in renderers)
-                count.Add(renderer.sharedMaterial);
-            return count.Count;
+                count += renderer.sharedMaterials.Length;
+            return count;
         }
     
         static Vector3 CheckBounds(Renderer[] renderers) {
