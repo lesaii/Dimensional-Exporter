@@ -1,7 +1,7 @@
 # Dimensional-Exporter
 Dimensional Exporter is an exporter as well as a template designed for the Dimensional Mall World Project.
 
-## Requirements (install these before importing the unitypackage)
+## Dependencies (install these before importing the unitypackage)
 
 -  [Silent's Filamented](https://gitlab.com/s-ilent/filamented)
 
@@ -16,9 +16,9 @@ Dimensional Exporter is an exporter as well as a template designed for the Dimen
 
 ### Credits
 
--  Dawn (dawnofender), for major contribution for the exporter.
--  Silent, for making Filamented
--  TheZiver, for providing textures that can be used for the prefabs
+-  [Dawn (dawnofender)](https://github.com/dawnofender), for major contribution for the exporter.
+-  [Silent](https://github.com/TheZiver), for making Filamented [(alternative link)](https://gitlab.com/s-ilent)
+-  [TheZiver](https://github.com/TheZiver), for providing textures that can be used for the prefabs
 -  [TextureCan](https://www.texturecan.com/), for providing textures that can be used for the prefabs
 -  LitanyLuis, for providing textures that can be used for the prefabs
 -  [Kiu](https://sketchfab.com/3d-models/northern-lights-360-panorama-8b6e2364be5842cda88c4ab9cc7223bc), for providing textures that can be used for the prefabs
