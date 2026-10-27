@@ -17,7 +17,7 @@ Dimensional Exporter is an exporter as well as a template designed for the Dimen
 ### Credits
 
 -  [Dawn (dawnofender)](https://github.com/dawnofender), for major contribution for the exporter.
--  [Silent](https://github.com/TheZiver), for making Filamented [(alternative link)](https://gitlab.com/s-ilent)
+-  [Silent](https://gitlab.com/s-ilent), for making Filamented [(alternative link)](https://gitlab.com/s-ilent)
 -  [TheZiver](https://github.com/TheZiver), for providing textures that can be used for the prefabs
 -  [TextureCan](https://www.texturecan.com/), for providing textures that can be used for the prefabs
 -  LitanyLuis, for providing textures that can be used for the prefabs
